@@ -1,12 +1,12 @@
 {
-    "last_update": 1726932382,
+    "last_update": 1726932707,
     "grouped_data": [
         {
             "district": "Districts_a",
             "total_votes": "100",
             "total_disable_votes": "0",
             "valid_votes": "100",
-            "uptime": "2024-09-20 21:58:00",
+            "uptime": "2024-09-20 21:55:21",
             "parties": [
                 {
                     "name": "Sajith",
@@ -15,8 +15,8 @@
                 },
                 {
                     "name": "Ranil",
-                    "total": "0",
-                    "percentage": "0.00"
+                    "total": "5",
+                    "percentage": "100"
                 },
                 {
                     "name": "Anura",
