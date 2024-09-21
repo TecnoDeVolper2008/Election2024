@@ -1,5 +1,5 @@
 {
-    "last_update": 1726948559,
+    "last_update": 1726949971,
     "grouped_data": [
         {
             "district": "Districts_f",
@@ -15,8 +15,8 @@
                 },
                 {
                     "name": "Ranil",
-                    "total": "5338",
-                    "percentage": "13.30"
+                    "total": "7226",
+                    "percentage": "18.00"
                 },
                 {
                     "name": "Anura",
@@ -174,34 +174,68 @@
         {
             "district": "Districts_w",
             "total_votes": "14780",
-            "total_disable_votes": "0",
-            "valid_votes": "14780",
-            "uptime": "2024-09-22 01:25:29",
+            "total_disable_votes": "317",
+            "valid_votes": "14463",
+            "uptime": "2024-09-22 01:37:00",
             "parties": [
                 {
                     "name": "Sajith",
                     "total": "4537",
-                    "percentage": "30.70"
+                    "percentage": "31.37"
                 },
                 {
                     "name": "Ranil",
                     "total": "3630",
-                    "percentage": "24.56"
+                    "percentage": "25.10"
                 },
                 {
                     "name": "Anura",
                     "total": "5480",
-                    "percentage": "37.08"
+                    "percentage": "37.89"
                 },
                 {
                     "name": "Namal",
                     "total": "129",
-                    "percentage": "0.87"
+                    "percentage": "0.89"
                 },
                 {
                     "name": "Others",
                     "total": "687",
-                    "percentage": "4.65"
+                    "percentage": "4.75"
+                }
+            ]
+        },
+        {
+            "district": "Districts_x",
+            "total_votes": "13108",
+            "total_disable_votes": "344",
+            "valid_votes": "12764",
+            "uptime": "2024-09-22 01:49:17",
+            "parties": [
+                {
+                    "name": "Sajith",
+                    "total": "4899",
+                    "percentage": "38.38"
+                },
+                {
+                    "name": "Ranil",
+                    "total": "4257",
+                    "percentage": "33.35"
+                },
+                {
+                    "name": "Anura",
+                    "total": "2092",
+                    "percentage": "16.39"
+                },
+                {
+                    "name": "Namal",
+                    "total": "88",
+                    "percentage": "0.69"
+                },
+                {
+                    "name": "Others",
+                    "total": "1428",
+                    "percentage": "11.19"
                 }
             ]
         }
