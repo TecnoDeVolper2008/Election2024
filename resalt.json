@@ -10,27 +10,27 @@
             "parties": [
                 {
                     "name": "Sajith",
-                    "total": "0",
+                    "total": "10",
                     "percentage": "0.00"
                 },
                 {
                     "name": "Ranil",
-                    "total": "0",
+                    "total": "20",
                     "percentage": "0.00"
                 },
                 {
                     "name": "Anura",
-                    "total": "0",
+                    "total": "50",
                     "percentage": "0.00"
                 },
                 {
                     "name": "Namal",
-                    "total": "0",
+                    "total": "10",
                     "percentage": "0.00"
                 },
                 {
                     "name": "Others",
-                    "total": "0",
+                    "total": "20",
                     "percentage": "0.00"
                 }
             ]
