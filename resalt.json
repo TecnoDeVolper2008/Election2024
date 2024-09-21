@@ -1,5 +1,5 @@
 {
-    "last_update": 1726949971,
+    "last_update": 1726950380,
     "grouped_data": [
         {
             "district": "Districts_f",
@@ -229,8 +229,8 @@
                 },
                 {
                     "name": "Namal",
-                    "total": "88",
-                    "percentage": "0.69"
+                    "total": "68",
+                    "percentage": "0.53"
                 },
                 {
                     "name": "Others",
