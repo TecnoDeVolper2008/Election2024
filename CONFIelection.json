@@ -1,7 +1,6 @@
 {
   "appUpdate": {
-    "version": "00",
-    "version": "2",
+   "version": "5",
     "updateUrl": "https://www.mediafire.com/folder/i49app4od3675/Election_2024",
     "forceUpdate": false,
     "releaseNotes": "New features and bug fixes."
