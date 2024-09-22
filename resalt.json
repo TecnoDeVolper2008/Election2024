@@ -1,5 +1,5 @@
 {
-    "last_update": 1726988768,
+    "last_update": 1726989507,
     "grouped_data": [
         {
             "district": "all",
@@ -8,11 +8,6 @@
             "valid_votes": "6849840",
             "uptime": "2024-09-22 10:03:54",
             "parties": [
-                 {
-                    "name": "Anura",
-                    "total": "2707105",
-                    "percentage": "39.52"
-                },
                 {
                     "name": "Sajith",
                     "total": "2348052",
@@ -22,6 +17,11 @@
                     "name": "Ranil",
                     "total": "1192649",
                     "percentage": "17.41"
+                },
+                {
+                    "name": "Anura",
+                    "total": "2707105",
+                    "percentage": "39.52"
                 },
                 {
                     "name": "Namal",
