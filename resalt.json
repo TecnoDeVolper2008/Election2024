@@ -1,39 +1,36 @@
 {
-    "last_update": 1727004346,
-    "grouped_data": [
+    "total_votes": "13319616",
+    "total_disable_votes": "0",
+    "valid_votes": "13319616",
+    "last_update": "2024-09-22 10:03:54",
+    "last_cache_update": 1727260501,
+    "app_status": "finish",
+    "new_pd": "anura",
+    "parties": [
         {
-            "district": "all",
-            "total_votes": "13319616",
-            "total_disable_votes": "0",
-            "valid_votes": "13319616",
-            "uptime": "2024-09-22 10:03:54",
-            "parties": [
-                {
-                    "name": "Sajith",
-                    "total": "4363035",
-                    "percentage": "32.76"
-                },
-                {
-                    "name": "Ranil",
-                    "total": "2292575",
-                    "percentage": "17.21"
-                },
-                {
-                    "name": "Anura",
-                    "total": "5634915",
-                    "percentage": "42.31"
-                },
-                {
-                    "name": "Namal",
-                    "total": "340421",
-                    "percentage": "2.56"
-                },
-                {
-                    "name": "Others",
-                    "total": "0",
-                    "percentage": "0.00"
-                }
-            ]
+            "name": "Anura",
+            "total": "5634915",
+            "percentage": "42.31"
+        },
+        {
+            "name": "Sajith",
+            "total": "4363035",
+            "percentage": "32.76"
+        },
+        {
+            "name": "Ranil",
+            "total": "2292575",
+            "percentage": "17.21"
+        },
+        {
+            "name": "Namal",
+            "total": "340421",
+            "percentage": "2.56"
+        },
+        {
+            "name": "Others",
+            "total": "0",
+            "percentage": "0.00"
         }
     ]
 }
